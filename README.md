@@ -22,14 +22,3 @@ Knowledge Distillation is conducted on a Swin Transformer model, employing the w
 The ConvNext model also undergoes self-distillation using identical alpha and temperature settings, enabling it to refine and consolidate its learned representations further.
 
 
-RESULTS:
-KD in linear models on MNIST dataset
-![image](https://github.com/medhasreenivasan/Knowledge-Distillation/assets/124751977/e70faf29-c22e-4dea-9881-e9d9e8fa6c37)
-
-KD in Resnet models on CIFAR10 dataset
-KD in transformers on APTOS blindness detection dataset 
-![image](https://github.com/medhasreenivasan/Knowledge-Distillation/assets/124751977/aafed894-7229-4892-b798-adc77ab2b5a2)
-
-
-
-
